@@ -12,7 +12,7 @@ const FriendCard = props => (
           <strong>Name:</strong> {props.name}
         </li>
         <li>
-          <strong>Occupation:</strong> {props.occupation}
+          <strong>Position:</strong> {props.occupation}
         </li>
         <li>
           <strong>Location:</strong> {props.location}
